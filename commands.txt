@@ -1,0 +1,17 @@
+creare env: virtualenv -p 3 .venv
+attivare env: source .venv/bin/activate
+
+git pull 
+git status
+git add .
+git commmit -m <message>
+git push
+
+salvare dependencies nei requirements: pip freeze > requirements.txt 
+
+installare requirements: pip install -r requirements.txt
+
+
+
+Git reset --hard 
+(Poi posso rifare git pull)
