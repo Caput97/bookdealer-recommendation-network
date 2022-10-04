@@ -8,7 +8,7 @@ argon2-cffi==21.1.0
 argon2-cffi-bindings==21.2.0
 asttokens==2.0.8
 async-timeout==3.0.1
-attrs==21.2.0
+attrs==18.2.0
 backcall==0.2.0
 beautifulsoup4==4.9.3
 bimlpa==0.1.2
@@ -88,7 +88,7 @@ netdispatch==0.1.0
 networkx==2.8.5
 nf1==0.0.4
 nltk==3.6.5
-notebook==6.4.5
+notebook==5.6.0
 numpy==1.19.2
 oauthlib==3.1.1
 packaging==21.3
@@ -155,8 +155,9 @@ texttable==1.6.4
 thinc==8.0.8
 threadpoolctl==3.1.0
 thresholdclustering==1.1
+tikzplotlib==0.10.1
 tinycss2==1.1.1
-tornado==6.1
+tornado==5.1.1
 tqdm==4.62.2
 traitlets==5.1.0
 tweepy==3.10.0
@@ -166,6 +167,7 @@ urllib3==1.25.10
 virtualenv==20.16.3
 wasabi==0.8.2
 wcwidth==0.2.5
+webcolors==1.12
 webencodings==0.5.1
 widgetsnbextension==4.0.2
 yarl==1.6.3
